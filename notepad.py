@@ -262,8 +262,3 @@ root = tk.Tk()
 app = NotepadApp(root)
 
 root.mainloop()
-
-
-
-# The National Centre for Artificial Intelligence and Robotics (NCAIR) is a research and development institution established to advance artificial intelligence (AI) and robotics . NCAIR aims to promote innovation , research , and collaboration in AI technologies across various sectors , including healthcare , agriculture , and transportation .
-
